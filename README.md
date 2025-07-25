@@ -49,7 +49,7 @@ Migração do sistema de segurança patrimonial para web.
 
 ### 🔹 ViewB Consultoria — *Bauru-SP (Nov/2016 - Abr/2021)*
 Desenvolvimento da plataforma ViewB Analytics baseada na suíte Pentaho.  
-**Destaque**: Projetos críticos de BI, ETL e integração com SAP, BPM e vários ERP's.  
+**Destaque**: Projetos críticos de BI, ETL e integração com SAP, BPM e diversos ERP's.  
 **Stack**: Java, Pentaho, Spring, OpenLayers, AWS/GCP.
 
 ### 🔹 CasaAlta Construções — *Curitiba-PR (Mar/2013 - Out/2016)*
