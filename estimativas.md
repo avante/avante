@@ -98,7 +98,8 @@ O time técnico deve ser responsável por:
 * sustentabilidade técnica;
 * eficiência do fluxo;
 * melhoria contínua;
-* transparência sobre riscos técnicos.
+* transparência sobre riscos técnicos;
+* colaboração contínua com stakeholders na descoberta e refinamento de valor.
 
 Já a gestão deve ser responsável por:
 
@@ -107,11 +108,13 @@ Já a gestão deve ser responsável por:
 * decisões de escopo;
 * análise de risco;
 * alocação de recursos;
-* comunicação com stakeholders.
+* comunicação executiva e alinhamento organizacional.
 
-Quando se exige que o time responda isoladamente “quando ficará pronto?”, transfere-se para a camada técnica uma responsabilidade que, em essência, é gerencial. Datas e custos não dependem apenas do esforço de desenvolvimento, mas de contexto estratégico, tolerância a risco, urgência de mercado e escolhas de escopo.
+Isso não implica afastamento entre time e stakeholders. Pelo contrário: equipes maduras devem manter contato direto e frequente com clientes, usuários e áreas interessadas, reduzindo ruído de comunicação, acelerando feedback e ampliando a compreensão do problema.
 
-Portanto, cabe à gestão transformar capacidade observada em compromissos de negócio. O papel do time é fornecer um sistema produtivo confiável e continuamente aprimorado.
+Quando se exige, porém, que o time responda isoladamente “quando ficará pronto?”, transfere-se para a camada técnica uma responsabilidade que, em essência, é gerencial. Datas e custos não dependem apenas do esforço de desenvolvimento, mas de contexto estratégico, tolerância a risco, urgência de mercado e escolhas de escopo.
+
+Portanto, cabe à gestão transformar capacidade observada em compromissos de negócio. O papel do time é fornecer um sistema produtivo confiável, colaborar diretamente com stakeholders e aprimorar continuamente sua capacidade de entrega.
 
 ---
 
